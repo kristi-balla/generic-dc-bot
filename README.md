@@ -1,7 +1,6 @@
 # DiscordBot
 
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
 <!-- ABOUT THE PROJECT -->
@@ -71,9 +70,6 @@ Contributions are what make the open source community such an amazing place to b
 
 [forks-shield]: https://img.shields.io/github/forks/krristi427/DiscordBot
 [forks-url]: https://github.com/krristi427/DiscordBot/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/krristi427/DiscordBot
-[stars-url]: https://github.com/krristi427/DiscordBot/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/krristi427/DiscordBot
 [issues-url]: https://github.com/krristi427/DiscordBot/issues
